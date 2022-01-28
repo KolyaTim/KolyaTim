@@ -1,4 +1,12 @@
 
- <h2> {
- 	front-style:italic;
+h1{
+	front-size: 50px;
+	text align:center;
  }
+h2{
+	front-size:40px;
+	front-weight:normal;
+}
+p{
+	front-size:30px;
+}
