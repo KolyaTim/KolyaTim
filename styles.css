@@ -1,12 +1,4 @@
 
- table {
- 	wight:500px;
- 	high:300px;
- 	}
- 	td{
- 		text-align:center;
- 		front-weight:bold;
- 	}
- 	th{
- 		front-weight: normal;
- 	}
+ <h2> {
+ 	front-style:italic;
+ }
