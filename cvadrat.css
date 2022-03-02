@@ -1,0 +1,13 @@
+
+#parent {
+	width: 600px;
+	border: 1px solid red;
+}
+
+#child {
+	height: 300px;
+	border: 1px solid green;
+	margin: 60px;
+}
+	</body>
+		</html>

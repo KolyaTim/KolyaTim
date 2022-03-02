@@ -1,0 +1,13 @@
+<div class="parent">
+	<div class="child"></div>
+</div>
+.parent {
+	border: 1px solid red;
+}
+
+.child {
+	height: 100px;
+	width: 200px;
+	border: 1px solid green;
+	margin: 10px auto;
+}
