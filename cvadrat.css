@@ -1,13 +1,11 @@
 
-#parent {
-	width: 600px;
-	border: 1px solid red;
+table {
+	border-collapse: collapse;
+}td, th {
+	border: 1px solid black;
+	text-align: center;
+	padding: 5px 10px;
 }
-
-#child {
-	height: 300px;
-	border: 1px solid green;
-	margin: 60px;
-}
-	</body>
-		</html>
+ th {
+ 	background-color: green;
+ }
